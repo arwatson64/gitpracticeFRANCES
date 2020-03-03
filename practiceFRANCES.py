@@ -1,5 +1,5 @@
-# Partner 1: Frances
-# Partner 2: Annie
+# Partner 1: Frances McConnell
+# Partner 2: Annie Watson
 
 #######
 
