@@ -2,7 +2,7 @@
 # Partner 2: Annie Watson
 
 #######
-# Assignment Name: GitHub Practice
+# Assignment Name: GitHub Practice - 03/03/2020
 
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
