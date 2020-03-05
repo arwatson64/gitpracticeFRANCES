@@ -3,10 +3,12 @@
 
 #######
 # Assignment Name: GitHub Practice - 03/03/2020 - 20 points
+import random
 
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
-    pass
+    for i in range(n):
+        print random.randint(1,11)
 
 def multiplyRandom(numbers):
 	'''takes in a list of n numbers and returns the product of the numbers'''
